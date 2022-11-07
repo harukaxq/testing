@@ -1,0 +1,11 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:harukaxq/testing.git",
+  "author": "harukaxq <h.tamura@cibo.design>",
+  "license": "MIT",
+  "scripts": {
+    "init-ts": "git clone git@github.com:metachris/typescript-boilerplate.git"
+  }
+}
